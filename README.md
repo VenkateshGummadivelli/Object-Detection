@@ -1,7 +1,6 @@
 # Object Detection Using OpenCV AND Python:
+![113904710-fba7fb00-97ef-11eb-9c5f-c51529849263](https://user-images.githubusercontent.com/65329002/118939353-35326100-b96d-11eb-9ed2-12619cdd3636.png)
 
-
-![1519895156650](https://user-images.githubusercontent.com/81758092/113904710-fba7fb00-97ef-11eb-9c5f-c51529849263.png)
 
 This repo consists the project that I have completed as a part of Graduate Rotational Internship Program (GRIP) by [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) May 2021 batch
 
